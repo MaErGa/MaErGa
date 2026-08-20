@@ -27,7 +27,7 @@
             Portfolio:        (https://maerga.github.io)
 
           - Featured Projects
-            ProjectName:      Pixel Trade, Lord Magician, DualMind2048
+            ProjectName:      Pixel Trade
             ProjectDesc:      Android app for buying and selling PC hardware
 
           - GitHub Stats
