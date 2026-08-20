@@ -22,9 +22,9 @@
 
           - Contact
             Email:            matiaserrigar87@gmail.com
-            Linkedin:         [https://www.linkedin.com/in/matias-errico-garcia-474387402/](https://www.linkedin.com/in/matias-errico-garcia-474387402/)
-            Itch.io:          [https://maerga.itch.io](https://maerga.itch.io)
-            Portfolio:        [https://maerga.github.io](https://maerga.github.io)
+            Linkedin:         (https://www.linkedin.com/in/matias-errico-garcia-474387402/)
+            Itch.io:          (https://maerga.itch.io)
+            Portfolio:        (https://maerga.github.io)
 
           - Featured Projects
             ProjectName:      Pixel Trade, Lord Magician, DualMind2048
