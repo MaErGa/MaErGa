@@ -18,6 +18,12 @@
                 Frameworks:       Android SDK, Supabase
                 Skills:           2D/3D Game Dev, Mobile Dev, Microinformatics
 
+              -Contact
+              - Email: matiaserrigar87@gmail.com
+              - Linkedin: https://www.linkedin.com/in/matias-errico-garcia-474387402/
+              - Itch.io: maerga.itch.io
+              - Portfolio: maerga.github.io
+
               - Featured Projects
                 ProjectName:      Pixel Trade, Lord Magician, DualMind2048.
                 ProjectDesc:      Android app for buying and selling PC hardware
