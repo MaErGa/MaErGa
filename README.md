@@ -1,16 +1,39 @@
-## Hi there 👋
+⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⣀⣀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⣀⣤⣴⣶⣿⣿⣿⣿⣿⣿⣿⣷⣶⣤⣄⡀⠀⠀⠀⠀⠀⠀⠀⠀
+⠀⠀⢀⣴⣾⣿⣿⣿⣿⣿⣿⡿⠁⣈⠙⠻⢿⣿⣿⣿⣿⣷⣤⡀⠀⠀⠀⠀⠀
+⠀⠀⠈⠉⠙⠛⠿⣿⣿⣿⣿⡇⢸⣿⣿⣦⣼⣿⣿⣿⣿⣿⣿⣿⣦⣀⣀⣀⡀
+⠀⠀⠀⠀⠀⠀⠀⠈⢻⣿⣿⣧⣈⣿⣿⣿⡿⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡟
+⠀⠀⠀⠀⢀⣤⣾⣿⣿⣿⣿⣿⣿⣿⣿⠃⠀⠀⠈⢻⣿⣿⣿⣿⣿⣿⣿⣿⠃
+⠀⠀⢀⣴⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⢀⣴⠀⠀⣿⣿⣿⣿⣿⠉⠙⣷⠀
+⠀⢠⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡇⠀⢸⡿⠀⠀⣿⣿⣿⣿⣿⠀⠀⣿⠂
+⢀⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣧⠀⠈⠁⠀⠀⠈⠻⠛⠙⠋⠀⣠⣿⡀
+⠘⠛⠋⠉⠀⠀⠀⢨⣿⣿⣿⣿⡟⠉⠛⠛⠷⣶⣤⣤⣤⣤⣤⣶⠶⣿⣿⣿⠇
+⠀⠀⠀⠀⠀⠀⢰⣿⣿⣿⣿⣿⣷⠀⠰⣦⣀⠀⠀⠀⠉⠉⠀⠀⠀⢸⡿⠀⠀
+⠀⠀⠀⠀⠀⢀⣿⣿⣿⣿⣿⣿⣿⣷⣄⡈⠙⠻⠿⠖⠀⠀⠀⣀⣴⡿⠁⠀⠀
+⠀⠀⠀⠀⠀⢸⣿⣿⣿⡿⠿⠛⠛⠛⠛⠛⠿⢶⣶⣶⣶⠶⠟⠛⠉⠀⠀⠀⠀
+⠀⠀⠀⠀⠀⢸⡿⠋⠁⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
 
-<!--
-**MaErGa/MaErGa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+              -------------
+              Uptime:             38 years, 11 months, 21 days
 
-Here are some ideas to get you started:
+              - User
+                Username:         MaErGa
+                Name:             Matías Errico
+                Title:            Junior Video Game Programmer & Technician
+                Experience:       Unity (C#), Kotlin, Web (JS/HTML/CSS)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+              - System
+                OS:               Windows, Linux
+                Tools:            Unity, Android Studio, Supabase, LibreSprite
+
+              - Languages & Tools
+                Programming:      C#, Kotlin, JavaScript, HTML/CSS, SQL
+                Frameworks:       Android SDK, Supabase
+                Skills:           2D/3D Game Dev, Mobile Dev, Microinformatics
+
+              - Featured Projects
+                ProjectName:      Pixel Trade
+                ProjectDesc:      Android app for buying and selling PC hardware
+
+              - GitHub Stats
+                Repos:            7
