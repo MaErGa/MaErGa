@@ -19,7 +19,7 @@
                 Skills:           2D/3D Game Dev, Mobile Dev, Microinformatics
 
               - Featured Projects
-                ProjectName:      Pixel Trade
+                ProjectName:      Pixel Trade, Lord Magician, DualMind2048.
                 ProjectDesc:      Android app for buying and selling PC hardware
 
               - GitHub Stats
