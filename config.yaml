@@ -1,0 +1,48 @@
+# ---------------------------------------------------------------------------
+# Everything that appears in the profile panel lives here.
+# Edit this file, run `python3 today.py`, and both SVGs are rebuilt.
+# Lines marked TODO still need your real values.
+# ---------------------------------------------------------------------------
+
+username: MaErGa        # rendered as <username>@github in the header
+
+# TODO: no tengo tu fecha de nacimiento real. Pon la tuya (AAAA-MM-DD) para
+# que el "Uptime" del panel sea correcto - este valor es un placeholder.
+birth_date: "2000-01-01"
+
+user:
+  UserName: MaErGa
+  Name: Matías Errico
+  Title: "Junior Video Game Programmer & Technician"
+  Experience: "Unity (C#), Kotlin, Web (JS/HTML/CSS)"
+
+system:
+  OS: "Windows, Linux"
+  Tools: "Unity, Android Studio, Supabase, LibreSprite"
+
+languages:
+  "Programming": "C#, Kotlin, JavaScript, HTML/CSS, SQL"
+  "Frameworks": "Android SDK, Supabase"
+  "Skills": "2D/3D Game Dev, Mobile Dev, Microinformatics"
+
+
+contact:
+  "Email": "matiaserrigar87@gmail.com"
+  "LinkedIn": "https://www.linkedin.com/in/matias-errico-garcia-474387402/"
+  "Itch.io": "https://maerga.itch.io"
+  "Portfolio": "https://maerga.github.io"
+
+featured_projects:
+  "ProjectName": "Pixel Trade"
+  "ProjectDesc": "Android app for buying and selling PC hardware"
+
+# Repos skipped when counting lines of code. Their stars y repo count siguen
+# contando - esto solo los excluye del total de LOC.
+stats:
+  exclude_repos: []
+
+# Panel geometry. ascii_cols must match the widest line in ascii_file.
+layout:
+  ascii_file: portrait.txt   # hand-made art; ascii_art.py writes ascii_art.txt
+  ascii_cols: 38
+  panel_cols: 78
