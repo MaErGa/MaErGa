@@ -44,5 +44,5 @@ stats:
 # Panel geometry. ascii_cols must match the widest line in ascii_file.
 layout:
   ascii_file: portrait.txt   # hand-made art; ascii_art.py writes ascii_art.txt
-  ascii_cols: 38
+  ascii_cols: 29
   panel_cols: 78
